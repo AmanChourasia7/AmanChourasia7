@@ -1,7 +1,7 @@
 Hoiiiiiiiiiiiiiiiiiiii bru.
 Ooo so you got my GitHub, yesssssssssssssssss 
 
-I don’t know how you landed here, but now that you’re in, welcome to my digital lair of... mostly nothing (yet). Maybe you were stalking me 👀, maybe GitHub’s algorithm betrayed me, or maybe it was just fate. Either way, hoiiiiiiii bru. Yes, this is me. Existing. Typing. Vibing.
+I don’t know how you landed here, but now that you are in, welcome to my digital lair. Maybe you were stalking me 👀, maybe GitHub’s algorithm betrayed me, or maybe it was just fate. Either way, hoiiiiiiii bru. Yes, this is me. Existing. Typing. Vibing.
 
 Now do not expect some over-optimized README with 10 badges, 5 side projects, and a motivational quote about hustle. No no noi. This is real, raw, and slightly unhinged. I’m still figuring out where to put what, what to build, and when to pretend I know Git properly. It’s all a process. Mostly trial. Plenty of error.
 
