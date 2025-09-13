@@ -8,6 +8,23 @@ Either way… *hoiiiiii bru.* Yes, this is me. Existing. Typing. Vibing.
 
 ---
 
+## 📊 My GitHub in Black & White
+
+<div align="center">
+
+<!-- GitHub Stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanchourasia7&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanchourasia7&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=amanchourasia7&theme=dark&background=000000&border=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff)
+
+</div>
+
+---
+
 ### ✨ What you’ll find here
 - Some random code 💻  
 - An unfinished project (or five) 🛠️  
