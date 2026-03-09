@@ -1,9 +1,20 @@
 ### Hi, I'm Aman Chourasia
 
-I am interested in understanding how systems work and why certain phenomena occur. My approach usually begins with broad questions, which I then try to translate into structured ideas and practical plans. To explore these ideas, I rely on a combination of quantitative reasoning, sketches, computational tools, and small experiments that allow me to test whether my assumptions hold in practice. Rather than focusing strictly on disciplinary boundaries, I tend to select the methods and tools that are most useful for answering the question at hand. When an approach fails, I treat it as part of the process, refining the idea and trying again until the concept becomes clearer. What I find most rewarding is observing how abstract thoughts gradually evolve into tangible systems that can be tested, evaluated, and improved over time. I value building things that serve a practical purpose, even when they begin as small or imperfect prototypes. I also recognize that not every attempt must be completed, since experimentation and learning are integral parts of the work itself. This page documents the projects, ideas, and explorations I am currently developing as I continue to deepen my understanding and incrementally work toward clearer and more useful solutions.
+I am interested in understanding how systems work and why certain phenomena occur.  
 
-**Email:** contact@amanchourasia.in  
-**Blog:** https://www.amanchourasia.in
+My approach usually begins with broad questions, which I then try to translate into structured ideas and practical plans. To explore these ideas, I rely on a combination of quantitative reasoning, sketches, computational tools, and small experiments that allow me to test whether my assumptions hold in practice. Rather than focusing strictly on disciplinary boundaries, I tend to select the methods and tools that are most useful for answering the question at hand.  
+
+When an approach fails, I treat it as part of the process, refining the idea and trying again until the concept becomes clearer. What I find most rewarding is observing how abstract thoughts gradually evolve into tangible systems that can be tested, evaluated, and improved over time. I value building things that serve a practical purpose, even when they begin as small or imperfect prototypes. I also recognize that not every attempt must be completed, since experimentation and learning are integral parts of the work itself.  
+
+This page documents the projects, ideas, and explorations I am currently developing as I continue to deepen my understanding and incrementally work toward clearer and more useful solutions.
+
+With warm regards,  
+**Aman Chourasia**  
+Indian Institute of Technology Patna 
+Bihta Kanpa Road, Patna, Bihar, India – 801106
+  
+contact@amanchourasia.in  
+https://www.amanchourasia.in
 
 
 
