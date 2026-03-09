@@ -10,7 +10,7 @@ This page documents the projects, ideas, and explorations I am currently develop
 
 With warm regards,  
 **Aman Chourasia**  
-Indian Institute of Technology Patna 
+Indian Institute of Technology Patna  
 Bihta Kanpa Road, Patna, Bihar, India – 801106
   
 contact@amanchourasia.in  
