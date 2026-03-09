@@ -1,4 +1,4 @@
-### Hi, I'm Aman Chourasia
+### Hi, I'm Aman Chourasia.
 
 I am interested in understanding how systems work and why certain phenomena occur.  
 
