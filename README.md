@@ -12,9 +12,6 @@ With warm regards,
 **Aman Chourasia**  
 Indian Institute of Technology Patna  
 Bihta Kanpa Road, Patna, Bihar, India – 801106
-  
-contact@amanchourasia.in  
-https://www.amanchourasia.in
 
 
 
