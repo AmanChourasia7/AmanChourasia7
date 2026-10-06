@@ -10,7 +10,6 @@ This page documents the projects, ideas, and explorations I am currently develop
 
 With warm regards,  
 **Aman Chourasia**  
-contact [at] amanchourasia [dot] in
 
 
 
